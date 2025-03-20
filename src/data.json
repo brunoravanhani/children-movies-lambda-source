@@ -952,6 +952,23 @@
                 "menino",
                 "menina"
             ]
+        },
+        {
+            "id": 59,
+            "name": "Meu Amigo Totoro",
+            "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ub3oHcMlMgjNMdAeeJonMTZ8som.jpg",
+            "description": "",
+            "type": "filme",
+            "streams": [
+                {
+                    "name": "Netflix",
+                    "link": "https://www.netflix.com/title/60032294"
+                }
+            ],
+            "tags": [
+                "menino",
+                "menina"
+            ]
         }
     ]
 }
