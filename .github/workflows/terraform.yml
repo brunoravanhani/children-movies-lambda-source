@@ -37,7 +37,7 @@ jobs:
 
     - name: Terraform init
       id: init
-      run: terraform -chdir=terraform init -reconfigure
+      run: terraform -chdir=terraform init
 
     - name: Terraform Format
       run: terraform -chdir=terraform fmt -check
