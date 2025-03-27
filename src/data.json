@@ -5,7 +5,7 @@
             "name": "O Expresso Polar",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Amazon Prime",
@@ -26,7 +26,7 @@
             "name": "Pets 2",
             "image": "https://i.ytimg.com/vi_webp/d98nho-OgfI/movieposter.webp",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Youtube",
@@ -43,7 +43,7 @@
             "name": "O Bom Dinossauro",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/8RSkxOO80btfKjyiC5ZiTaCHIT8.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -77,7 +77,7 @@
             "name": "Enrolados (Rapunzel)",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/wZzVkdnc0kw20lSJc13ZmgTPah3.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -93,7 +93,7 @@
             "name": "Moana",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/4rxEeTzN1oZPJo1GBoPOnA3NeJv.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -109,7 +109,7 @@
             "name": "Valente",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/jX9O3eyzfw937QOhRF4wz6nhxBM.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -125,7 +125,7 @@
             "name": "As Crônicas de Narnia",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/sLw1gxPAvkqhp5XrdO2A50Q5lTW.jpg",
             "description": "",
-            "type": "filme",
+            "type": "live-action",
             "streams": [
                 {
                     "name": "Disney",
@@ -142,7 +142,7 @@
             "name": "Como Treinar o Seu Dragão",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/unDtQ5SwuXJLJW6WB3F9yaSfIbl.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [],
             "tags": [
                 "menino"
@@ -152,7 +152,7 @@
             "name": "Como Treinar o Seu Dragão 2",
             "image": "https://image.tmdb.org/t/p/w1280/3scupRmZJ3zrDS29XeUQKm8nu3U.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Prime Video",
@@ -168,7 +168,7 @@
             "name": "Toy Story: Um Mundo de Aventuras",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/6AafgfifXkFS4g2xGJZIwsPQK6P.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -185,7 +185,7 @@
             "name": "Toy Story 2",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/yjzb9ojVSEw9vg5kp22ijPKXyMF.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -202,7 +202,7 @@
             "name": "Toy Story 3",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -219,7 +219,7 @@
             "name": "Toy Story 4",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/csiyO6q8rR74pfgJDjwINzhoick.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -236,7 +236,7 @@
             "name": "Raya e o Último Dragão",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/yXrb84zJidCefyhTWHwo4yCDvwz.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -253,7 +253,7 @@
             "name": "Zootopia",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/wtlvxzM7FUGZTSDX4SBGaJ8gBJZ.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -270,7 +270,7 @@
             "name": "101 Dálmatas",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/117iq8a3s1umK391ZribC7JqNTt.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -287,7 +287,7 @@
             "name": "Frozen: Uma Aventura Congelante",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/hOZKUJGN0m717LRSQDxhgABqWrf.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -303,7 +303,7 @@
             "name": "Frozen 2",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/uVHishB6G4T6BOnUsV4JgdJXdIz.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -319,7 +319,7 @@
             "name": "Cinderela",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/4DsfRsCxrhkHQHGLeY9m8oi9q46.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -335,7 +335,7 @@
             "name": "Cinderela",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/Acj5mmoZQ5lKLNpU2y0XQCt5rNb.jpg",
             "description": "",
-            "type": "filme",
+            "type": "live-action",
             "streams": [
                 {
                     "name": "Disney",
@@ -351,7 +351,7 @@
             "name": "A Bela e a Fera",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/is4c02QuP70BCVLp27SSlDeByoe.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -367,7 +367,7 @@
             "name": "A Bela e a Fera",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/9V4wl4rnUcLfGuTe4J5NjOFbDil.jpg",
             "description": "",
-            "type": "filme",
+            "type": "live-action",
             "streams": [
                 {
                     "name": "Disney",
@@ -383,7 +383,7 @@
             "name": "A Bela Adormecida",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/iRYRBWKhwPI5lBT4DPhmNpmBOMU.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -399,7 +399,7 @@
             "name": "Ratatouille",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/lpyqGZXjaPpr2dzkD9XD5DUGMkN.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -416,7 +416,7 @@
             "name": "Procurando Nemo",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/5jrPMq7IMLTqcuPDlK6jfruEbpq.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -433,7 +433,7 @@
             "name": "Procurando Dory",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/5MOyKnmtE2hd778bIybw9v8HkiP.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -450,7 +450,7 @@
             "name": "Klaus",
             "image": "https://media.themoviedb.org/t/p/original/guyZW9AQdTMp2F4esttjyIMMK1k.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Netflix",
@@ -467,7 +467,7 @@
             "name": "Irmão Urso",
             "image": "https://image.tmdb.org/t/p/w1280/pFRQgHiZwHTX7LmHEI0hwocuBC3.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -484,7 +484,7 @@
             "name": "Irmão Urso 2",
             "image": "https://image.tmdb.org/t/p/w1280/r4kOIrwYMXInmFH8eaJ6kDoAkUW.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -501,7 +501,7 @@
             "name": "Spirit: O Corcel Indomável",
             "image": "https://image.tmdb.org/t/p/w1280/qJ8fF5Uoy9WLrUvCXU26VJrfa5r.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Netfix",
@@ -535,7 +535,7 @@
             "name": "O Rei Leão",
             "image": "https://image.tmdb.org/t/p/w1280/8aIvm8OaJISOpVTt7rMIh7X35G5.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -552,7 +552,7 @@
             "name": "Rei Leão II: O Reino de Simba",
             "image": "https://image.tmdb.org/t/p/w1280/9GB2FntD6nBGx1EsKKOtR7v4Tza.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -569,7 +569,7 @@
             "name": "O Rei Leão",
             "image": "https://image.tmdb.org/t/p/w1280/wrHr8eEJYDAA7WYybyH162s4oZ4.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -586,7 +586,7 @@
             "name": "A Origem dos Guardiões",
             "image": "https://image.tmdb.org/t/p/w1280/yK0iCFtWKFnwbbTqMd3nD06cq9g.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [],
             "tags": [
                 "menino",
@@ -598,7 +598,7 @@
             "name": "Din e o Dragão Genial",
             "image": "https://image.tmdb.org/t/p/w1280/hNhGNWn4Z9S77cOuYn2ZWfC9E7b.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Netflix",
@@ -615,7 +615,7 @@
             "name": "Mulan",
             "image": "https://image.tmdb.org/t/p/w1280/nq4taYpb2PjN1Cwni23GOZJbOaR.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -631,7 +631,7 @@
             "name": "Mulan II",
             "image": "https://image.tmdb.org/t/p/w1280/lWcoRhckk3F1v1HvaMvIyc9faZA.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -647,7 +647,7 @@
             "name": "Os Sem Floresta",
             "image": "https://image.tmdb.org/t/p/w1280/cNPhs8Gkm1SJ4vuZDnytZnj1EsY.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Netflix",
@@ -664,7 +664,7 @@
             "name": "A Bailarina",
             "image": "https://image.tmdb.org/t/p/w1280/xKPMlQ3v6KJD3u6ik3urzGesh5g.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Netflix",
@@ -680,7 +680,7 @@
             "name": "O Natal de Angela",
             "image": "https://image.tmdb.org/t/p/w1280/iUUPFgIkYGb0okY1siub2wDg5Ly.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Netflix",
@@ -696,7 +696,7 @@
             "name": "O presente de natal de Angela",
             "image": "https://image.tmdb.org/t/p/w1280/6TFKcVSIfIFDffi91XztloA6X7o.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Netflix",
@@ -712,7 +712,7 @@
             "name": "A Estrela de Belém",
             "image": "https://image.tmdb.org/t/p/w1280/fqfmEDJpTa8qjwtNxCX6NYQs9Pr.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Netflix",
@@ -729,7 +729,7 @@
             "name": "Pedro Coelho 2: O Fugitivo",
             "image": "https://image.tmdb.org/t/p/w1280/pxdSJCpqMOp3gakScrzHgGDEvVr.jpg",
             "description": "",
-            "type": "filme",
+            "type": "live-action",
             "streams": [
                 {
                     "name": "Netflix",
@@ -763,7 +763,7 @@
             "name": "Carros",
             "image": "https://image.tmdb.org/t/p/w1280/d3a9nafpB6rUWckVptwpTJ0Sy0l.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -779,7 +779,7 @@
             "name": "Carros 2",
             "image": "https://image.tmdb.org/t/p/w1280/fIKaabvE40T39nOIngcZPcPJeYe.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -795,7 +795,7 @@
             "name": "Carros 3",
             "image": "https://image.tmdb.org/t/p/w1280/lVPFdORefTKXKFiSktrXbiFDNAK.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -811,7 +811,7 @@
             "name": "Os Incríveis",
             "image": "https://image.tmdb.org/t/p/w1280/z8k5EhZZTLsCRF8NWjSe6snWNZg.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -827,7 +827,7 @@
             "name": "Os Incríveis 2",
             "image": "https://image.tmdb.org/t/p/w1280/y3EEb7o6NxK0pl0WsOswCos663y.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -843,7 +843,7 @@
             "name": "A Princesa Encantada",
             "image": "https://image.tmdb.org/t/p/w1280/eK08pDC4ASwgS5OohDmZcUbLrBx.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Netflix",
@@ -859,7 +859,7 @@
             "name": "Operação Big Hero",
             "image": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/zGuS48PShYgLwBpoRBCgzJC20uN.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -875,7 +875,7 @@
             "name": "Kung Fu Panda",
             "image": "https://image.tmdb.org/t/p/w1280/6figomnwyiUa2ErqK8QangIAO6c.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Netflix",
@@ -891,7 +891,7 @@
             "name": "Kung Fu Panda 3",
             "image": "https://image.tmdb.org/t/p/w1280/pXYJjUNtnLfXVKGmqi1nfGornri.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Netflix",
@@ -907,7 +907,7 @@
             "name": "As Crônicas de Nárnia: A Viagem do Peregrino da Alvorada",
             "image": "https://image.tmdb.org/t/p/w1280/vcAYeNXMJoywxccPQLrESaBJane.jpg",
             "description": "",
-            "type": "filme",
+            "type": "live-action",
             "streams": [
                 {
                     "name": "Disney",
@@ -924,7 +924,7 @@
             "name": "Nanny McPhee: A Babá Encantada",
             "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUMsZbnhquxIpr7lV5w78P2P7CH.jpg",
             "description": "",
-            "type": "filme",
+            "type": "live-action",
             "streams": [
                 {
                     "name": "Netflix",
@@ -941,7 +941,7 @@
             "name": "Nanny McPhee 2: E as Lições Mágicas",
             "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cS5VhYcpa74KcResDTrCsI5C4Ro.jpg",
             "description": "",
-            "type": "filme",
+            "type": "live-action",
             "streams": [
                 {
                     "name": "Netflix",
@@ -958,7 +958,7 @@
             "name": "Meu Amigo Totoro",
             "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ub3oHcMlMgjNMdAeeJonMTZ8som.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Netflix",
@@ -975,7 +975,7 @@
             "name": "O Mundo dos Pequeninos",
             "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yovlgDFP53N7IW7O4irM6INBxmp.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Netflix",
@@ -992,7 +992,7 @@
             "name": "Ponyo - Uma Amizade que Veio do Mar",
             "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvpsmNWc8nyePJMbyMc9X5lLN6L.jpg",
             "description": "",
-            "type": "filme",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Netflix",
@@ -1001,6 +1001,22 @@
             ],
             "tags": [
                 "menino",
+                "menina"
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Moana 2",
+            "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/A1NUWVjoKzWzOdGE01NHquyubkx.jpg",
+            "description": "",
+            "type": "animated-movie",
+            "streams": [
+                {
+                    "name": "Disney",
+                    "link": "https://www.disneyplus.com/browse/entity-a21ee2fc-421e-4839-bfcc-0bf2ba815875"
+                }
+            ],
+            "tags": [
                 "menina"
             ]
         }
