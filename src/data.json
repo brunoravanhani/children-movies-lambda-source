@@ -319,7 +319,7 @@
             "name": "Cinderela",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/4DsfRsCxrhkHQHGLeY9m8oi9q46.jpg",
             "description": "",
-            "type": "animated-movie",
+            "type": "live-action",
             "streams": [
                 {
                     "name": "Disney",
@@ -335,7 +335,7 @@
             "name": "Cinderela",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/Acj5mmoZQ5lKLNpU2y0XQCt5rNb.jpg",
             "description": "",
-            "type": "live-action",
+            "type": "animated-movie",
             "streams": [
                 {
                     "name": "Disney",
@@ -1017,6 +1017,56 @@
                 }
             ],
             "tags": [
+                "menina"
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Spidey e Seus Amigos Espetaculares",
+            "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsMDpQ8bkU66Ip3b695f2EXxYld.jpg",
+            "description": "",
+            "type": "animated-movie",
+            "streams": [
+                {
+                    "name": "Disney",
+                    "link": "https://www.disneyplus.com/browse/entity-cc992c16-e126-4a2b-a039-0b1e7106b727"
+                }
+            ],
+            "tags": [
+                "menino"
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Patrulha Canina",
+            "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NXgGy5K4gLMt3dm0tUnoDIkPlc.jpg",
+            "description": "",
+            "type": "animated-movie",
+            "streams": [
+                {
+                    "name": "Netflix",
+                    "link": "https://www.netflix.com/title/80026226"
+                }
+            ],
+            "tags": [
+                "menino",
+                "menina"
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Um Cãozinho Genial",
+            "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jZbyYA6KNTGOq2uQYHnllmP0JB.jpg",
+            "description": "",
+            "type": "animated-movie",
+            "streams": [
+                {
+                    "name": "Disney",
+                    "link": "https://www.disneyplus.com/pt-br/browse/entity-894faa39-c984-4e82-aaaa-69c7664ea61b"
+                }
+            ],
+            "tags": [
+                "menino",
                 "menina"
             ]
         }
