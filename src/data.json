@@ -1025,7 +1025,7 @@
             "name": "Spidey e Seus Amigos Espetaculares",
             "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsMDpQ8bkU66Ip3b695f2EXxYld.jpg",
             "description": "",
-            "type": "animated-movie",
+            "type": "serie",
             "streams": [
                 {
                     "name": "Disney",
@@ -1041,7 +1041,7 @@
             "name": "Patrulha Canina",
             "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NXgGy5K4gLMt3dm0tUnoDIkPlc.jpg",
             "description": "",
-            "type": "animated-movie",
+            "type": "serie",
             "streams": [
                 {
                     "name": "Netflix",
@@ -1058,7 +1058,7 @@
             "name": "Um Cãozinho Genial",
             "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jZbyYA6KNTGOq2uQYHnllmP0JB.jpg",
             "description": "",
-            "type": "animated-movie",
+            "type": "serie",
             "streams": [
                 {
                     "name": "Disney",
