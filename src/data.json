@@ -1069,6 +1069,40 @@
                 "menino",
                 "menina"
             ]
+        },
+        {
+            "id": 66,
+            "name": "Mufasa: O Rei Leão",
+            "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMVuv6Gz5fj7vZ51IjRF3AiW87y.jpg",
+            "description": "",
+            "type": "animated-movie",
+            "streams": [
+                {
+                    "name": "Disney",
+                    "link": "https://www.disneyplus.com/pt-br/browse/entity-be4719cc-b491-4593-b5a7-d8658976c0b9"
+                }
+            ],
+            "tags": [
+                "menino",
+                "menina"
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Treinando o Papai",
+            "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikQBghrihLICc1E9CjvNkek0MQw.jpg",
+            "description": "",
+            "type": "live-action",
+            "streams": [
+                {
+                    "name": "Disney",
+                    "link": "https://www.disneyplus.com/browse/entity-2e28ca2c-f151-4bdb-b7ca-e0b4d8a9edd6"
+                }
+            ],
+            "tags": [
+                "menino",
+                "menina"
+            ]
         }
     ]
 }
