@@ -4,11 +4,12 @@
             "id": 1,
             "name": "O Expresso Polar",
             "image": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
-            "description": "",
+            "description": "Acorde, caia na real e esteja pronto para a jornada de sua vida! É véspera de Natal e um garoto está acordado. Sem acreditar mais em Papai Noel, ele espera por algo que faça com que sua crença na figura natalina retorne. De repente ele ouve um grande barulho, de fora de sua casa. O garoto então vê à sua frente um gigantesco trem negro com destino ao Pólo Norte, cujo condutor o convida para embarcar. Após certa relutância, ele decide seguir viagem. Você está prestes a embarcar em uma verdadeira montanha-russa que o levará para cima e para baixo através de montanhas, campos gelados e pontes gigantescas, saboreando chocolate quente. Você está a bordo do Expresso Polar!",
+            "year": 2004,
             "type": "animated-movie",
             "streams": [
                 {
-                    "name": "Amazon Prime",
+                    "name": "Prime Video",
                     "link": "https://www.primevideo.com/dp/amzn1.dv.gti.71df62ca-d7a1-4626-aa07-27836d37e8d9?autoplay=0&ref_=atv_cf_strg_wb"
                 },
                 {
@@ -148,21 +149,7 @@
                 "menino"
             ]
         },
-        {
-            "name": "Como Treinar o Seu Dragão 2",
-            "image": "https://image.tmdb.org/t/p/w1280/3scupRmZJ3zrDS29XeUQKm8nu3U.jpg",
-            "description": "",
-            "type": "animated-movie",
-            "streams": [
-                {
-                    "name": "Prime Video",
-                    "link": "https://www.primevideo.com/detail/0RZDRRAVQ2XV5W4I3T6Z22RAC0/ref=atv_dl_rdr?tag=justbrrsjd-20"
-                }
-            ],
-            "tags": [
-                "menino"
-            ]
-        },
+        
         {
             "id": 10,
             "name": "Toy Story: Um Mundo de Aventuras",
@@ -504,7 +491,7 @@
             "type": "animated-movie",
             "streams": [
                 {
-                    "name": "Netfix",
+                    "name": "Netflix",
                     "link": "https://www.netflix.com/br/title/60020810"
                 }
             ],
@@ -585,9 +572,15 @@
             "id": 36,
             "name": "A Origem dos Guardiões",
             "image": "https://image.tmdb.org/t/p/w1280/yK0iCFtWKFnwbbTqMd3nD06cq9g.jpg",
-            "description": "",
+            "description": "Jack Frost forma uma equipe com o Papai Noel, a Fada do Dente e seus amigos para enfrentar um espírito do mal determinado a destruir as fantasias das crianças.",
+            "year": 2012,
             "type": "animated-movie",
-            "streams": [],
+            "streams": [
+                {
+                    "name": "Netflix",
+                    "link": "https://www.netflix.com/br/title/70243449"
+                }
+            ],
             "tags": [
                 "menino",
                 "menina"
@@ -991,7 +984,8 @@
             "id": 61,
             "name": "Ponyo - Uma Amizade que Veio do Mar",
             "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvpsmNWc8nyePJMbyMc9X5lLN6L.jpg",
-            "description": "",
+            "description": "Um garoto de 5 anos chamado Sosuke fica amigo de uma princesa peixinho-dourado chamada Ponyo, que quer desesperadamente virar humana.",
+            "year": 2018,
             "type": "animated-movie",
             "streams": [
                 {
@@ -1008,7 +1002,8 @@
             "id": 62,
             "name": "Moana 2",
             "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/A1NUWVjoKzWzOdGE01NHquyubkx.jpg",
-            "description": "",
+            "description": "Após receber um chamado de seus ancestrais, Moana e Mauí partem rumo aos mares distantes da Oceania.",
+            "year": 2024,
             "type": "animated-movie",
             "streams": [
                 {
@@ -1102,6 +1097,158 @@
             "tags": [
                 "menino",
                 "menina"
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Abominável",
+            "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oC89hsRFoF4OcrgYIKysDD7M6XO.jpg",
+            "description": "Shanghai, China. Yi é uma adolescente que, certo dia, descobre que um yeti está no telhado do prédio em que ela mora. A partir disso, ela e seus colegas passam a chamar a criatura mística de 'Everest' e, ao criarem laços com o animal, decidem levá-lo até sua família, que está no topo do planeta. Porém, os três amigos terão que conseguir despistar o ganancioso Burnish e a zoóloga Dra. Zara, que querem pegar o yeti a qualquer custo.",
+            "year": 2019,
+            "type": "animated-movie",
+            "streams": [
+                {
+                    "name": "Netflix",
+                    "link": "https://www.netflix.com/br/title/81088173"
+                }
+            ],
+            "tags": [
+                "menino",
+                "menina"
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Encrencão",
+            "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aSzY7xjIWyLN5WJUle0v4MnL2Rn.jpg",
+            "description": "A confortável vida deste cachorrinho vira de cabeça para baixo depois que ele se perde e precisa aprender a sobreviver nas ruas da cidade grande.",
+            "year": 2019,
+            "type": "animated-movie",
+            "streams": [
+                {
+                    "name": "Netflix",
+                    "link": "https://www.netflix.com/br/title/81349324"
+                }
+            ],
+            "tags": [
+                "menino",
+                "menina"
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Jumanji: Bem-Vindo à Selva",
+            "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uT1pHr90KqQGMucv7YgyPdxhMiC.jpg",
+            "description": "Quatro adolescentes que estão de castigo depois das aulas encontram um console de videogame antigo com um jogo que nunca tinham ouvido falar. Quando decidem jogar, são imediatamente sugados para dentro de uma selva, para o mundo de Jumanji, onde assumem os corpos dos seus avatares. Eles têm que ir até o fim da maior aventura de suas vidas, recheada de diversão, emoções e perigos, ou ficarão para sempre dentro do jogo!",
+            "year": 2018,
+            "type": "live-action",
+            "streams": [
+                {
+                    "name": "Prime Video",
+                    "link": "https://www.primevideo.com/detail?gti=amzn1.dv.gti.80b01be8-9b16-5d55-4118-07db2f948bd3&irclickid=b30c0d59N880911f0aaee1540551bb06"
+                }
+            ],
+            "tags": [
+                "menino"
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Como Treinar o Seu Dragão 2",
+            "image": "https://image.tmdb.org/t/p/w1280/3scupRmZJ3zrDS29XeUQKm8nu3U.jpg",
+            "description": "",
+            "type": "animated-movie",
+            "streams": [
+            ],
+            "tags": [
+                "menino"
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Como Treinar o Seu Dragão 3",
+            "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yn6f3dy0Rh2Y00YE8B52Pdm9IRp.jpg",
+            "description": "",
+            "type": "animated-movie",
+            "streams": [
+            ],
+            "tags": [
+                "menino"
+            ]
+        },
+        {
+            "id": 73,
+            "name": "O show da Luna",
+            "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bNIjVpeQtuHD8aJ19TQMWLNuABG.jpg",
+            "description": "A série gira em torno de Luna, uma garota de 6 anos que ama ciências, e que acredita que a Terra é um enorme laboratório aonde ela pode descobrir diversas curiosidades. Curiosa e destemida, Luna não sossega até conseguir responder a pergunta: “O que está acontecendo aqui?”. A cada episódio, uma curiosidade é abordada, seja no quintal da casa de Luna ou na praia, aonde sem saber, Luna, seu irmão mais novo, Júpiter, de 4 anos e o furão de estimação da família, Cláudio, praticam ciência diariamente, formulando hipóteses e fazendo experimentos. Criativa, Luna utiliza sua imaginação para descobrir suas diversas dúvidas durante cada episódio.",
+            "year": 2014,
+            "type": "serie",
+            "streams": [
+                {
+                    "name": "Max",
+                    "link": "play.hbomax.com/video/watch/84b60872-7010-41ff-9860-4d719088f2c5"
+                }
+            ],
+            "tags": [
+                "menino",
+                "menina"
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Lucas, a Aranha",
+            "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oYDJtKzQpjeNyaVyhRzS6WL4OU1.jpg",
+            "description": "Lucas é uma pequena aranha saltadora que ama desbravar o mundo ao seu redor e fazer novos amigos.",
+            "year": 2017,
+            "type": "serie",
+            "streams": [
+                {
+                    "name": "Netflix",
+                    "link": "https://www.netflix.com/br/title/81691739"
+                },
+                 {
+                    "name": "Max",
+                    "link": "https://play.hbomax.com/video/watch/f9c3616b-a213-4853-b3f9-cb0b30769c4b"
+                }
+            ],
+            "tags": [
+                "menino",
+                "menina"
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Bluey",
+            "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
+            "description": "As aventuras na vida de um filhote de cachorro Boiadeiro-australiano azul enquanto ele se diverte com sua família e amigos em situações cotidianas.",
+            "year": 2018,
+            "type": "serie",
+            "streams": [
+                {
+                    "name": "Disney",
+                    "link": "https://www.disneyplus.com/pt-br/browse/entity-fa6973b9-e7cf-49fb-81a2-d4908e4bf694"
+                }
+            ],
+            "tags": [
+                "menino",
+                "menina"
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Homem de Ferro e seus Amigos Incríveis",
+            "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oHKO7ibdu1YEksqkASa2mSLv9vj.jpg",
+            "description": "'Homem de Ferro e seus Amigos Incríveis' acompanha as aventuras dos melhores amigos e supergênios enquanto trabalham juntos para resolver problemas e proteger a cidade.",
+            "year": 2025,
+            "type": "serie",
+            "streams": [
+                {
+                    "name": "Disney",
+                    "link": "https://www.disneyplus.com/pt-br/browse/entity-6888a58f-380b-48eb-b1bf-048391761d6c?irclickid=yYHzCn0N0xycWU0TwVVJhXX9UkpzYmwzRwHJXA0&irgwc=1&cid=DSS-Affiliate-Impact-Content-JustWatch+GmbH-705874&tgclid=0b010048-c7fe-4da0-b500-0b8b68b70540&"
+                }
+            ],
+            "tags": [
+                "menino"
             ]
         }
     ]
