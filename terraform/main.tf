@@ -80,6 +80,35 @@ resource "aws_lambda_function_url" "function" {
   authorization_type = "NONE"
 }
 
+resource "aws_dynamodb_table" "movies" {
+  name         = "children-movies-database"
+  billing_mode = "PAY_PER_REQUEST"
+
+  hash_key = "id"
+
+  attribute {
+    name = "id"
+    type = "N"
+  }
+
+  tags = {
+    Terraform = "true"
+    Context   = "ravanhani-site"
+  }
+}
+
+resource "null_resource" "seed_dynamodb" {
+  provisioner "local-exec" {
+    command = <<EOT
+      aws dynamodb batch-write-item \
+        --request-items file://batch.json \
+        --region us-east-1
+    EOT
+  }
+
+  depends_on = [aws_dynamodb_table.movies]
+}
+
 output "teraform_aws_role_output" {
   value = aws_iam_role.lambda_role.name
 }
