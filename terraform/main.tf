@@ -81,10 +81,10 @@ resource "aws_lambda_function_url" "function" {
 }
 
 resource "aws_dynamodb_table" "movies" {
-  name           = "children-movies-database"
-  billing_mode   = "PAY_PER_REQUEST"
+  name         = "children-movies-database"
+  billing_mode = "PAY_PER_REQUEST"
 
-  hash_key       = "id"
+  hash_key = "id"
 
   attribute {
     name = "id"
@@ -92,8 +92,8 @@ resource "aws_dynamodb_table" "movies" {
   }
 
   tags = {
-    Terraform   = "true"
-    Context     = "ravanhani-site"
+    Terraform = "true"
+    Context   = "ravanhani-site"
   }
 }
 
