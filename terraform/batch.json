@@ -6,7 +6,7 @@
           "id": { "N": "1" },
           "name": { "S": "O Expresso Polar" },
           "image": { "S": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/eOoCzH0MqeGr2taUZO4SwG416PF.jpg" },
-          "description": { "S": "Acorde, caia na real e esteja pronto..." },
+          "description": { "S": "Acorde, caia na real e esteja pronto para a jornada de sua vida! É véspera de Natal e um garoto está acordado. Sem acreditar mais em Papai Noel, ele espera por algo que faça com que sua crença na figura natalina retorne. De repente ele ouve um grande barulho, de fora de sua casa. O garoto então vê à sua frente um gigantesco trem negro com destino ao Pólo Norte, cujo condutor o convida para embarcar. Após certa relutância, ele decide seguir viagem. Você está prestes a embarcar em uma verdadeira montanha-russa que o levará para cima e para baixo através de montanhas, campos gelados e pontes gigantescas, saboreando chocolate quente. Você está a bordo do Expresso Polar!" },
           "year": { "N": "2004" },
           "type": { "S": "animated-movie" },
           "streams": {
@@ -14,7 +14,7 @@
               {
                 "M": {
                   "name": { "S": "Prime Video" },
-                  "link": { "S": "https://www.primevideo.com/dp/amzn1..." }
+                  "link": { "S": "https://www.primevideo.com/dp/amzn1.dv.gti.71df62ca-d7a1-4626-aa07-27836d37e8d9?autoplay=0&ref_=atv_cf_strg_wb" }
                 }
               },
               {
