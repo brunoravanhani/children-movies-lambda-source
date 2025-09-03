@@ -80,6 +80,39 @@ resource "aws_lambda_function_url" "function" {
   authorization_type = "NONE"
 }
 
+resource "aws_dynamodb_table" "movies" {
+  name           = "children-movies-database"
+  billing_mode   = "PAY_PER_REQUEST"
+
+  hash_key       = "id"
+
+  attribute {
+    name = "id"
+    type = "N"
+  }
+
+  tags = {
+    Terraform   = "true"
+    Context     = "ravanhani-site"
+  }
+}
+
+resource "null_resource" "seed_dynamodb" {
+  provisioner "local-exec" {
+    command = <<EOT
+      for item in $(jq -c '.[]' data.json); do
+        echo $item | aws dynamodb put-item \
+          --table-name ${aws_dynamodb_table.movies.name} \
+          --item file:///dev/stdin \
+          --region us-east-1
+      done
+    EOT
+    interpreter = ["/bin/bash", "-c"]
+  }
+
+  depends_on = [aws_dynamodb_table.movies]
+}
+
 output "teraform_aws_role_output" {
   value = aws_iam_role.lambda_role.name
 }
