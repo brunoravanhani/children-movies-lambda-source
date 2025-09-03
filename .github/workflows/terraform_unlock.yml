@@ -37,4 +37,4 @@ jobs:
       run: terraform -chdir=terraform init
 
     - name: Terraform Unlock
-      run: terraform -chdir=terraform force-unlock -force LockID
+      run: terraform -chdir=terraform force-unlock -force 0e1b1fb4-db15-0416-0e97-5d84f9491eb4
