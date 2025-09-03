@@ -8,7 +8,7 @@ permissions:
 
 jobs:
   terraform:
-    name: 'Terraform'
+    name: 'Terraform Unlock'
     runs-on: ubuntu-latest
     environment: production
     defaults:
