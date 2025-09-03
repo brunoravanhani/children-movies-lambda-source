@@ -1,0 +1,38 @@
+{
+  "Movies": [
+    {
+      "PutRequest": {
+        "Item": {
+          "id": { "N": "1" },
+          "name": { "S": "O Expresso Polar" },
+          "image": { "S": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/eOoCzH0MqeGr2taUZO4SwG416PF.jpg" },
+          "description": { "S": "Acorde, caia na real e esteja pronto..." },
+          "year": { "N": "2004" },
+          "type": { "S": "animated-movie" },
+          "streams": {
+            "L": [
+              {
+                "M": {
+                  "name": { "S": "Prime Video" },
+                  "link": { "S": "https://www.primevideo.com/dp/amzn1..." }
+                }
+              },
+              {
+                "M": {
+                  "name": { "S": "Youtube" },
+                  "link": { "S": "https://www.youtube.com/watch?v=eXXTrj7Zpwo" }
+                }
+              }
+            ]
+          },
+          "tags": {
+            "L": [
+              { "S": "menino" },
+              { "S": "menina" }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

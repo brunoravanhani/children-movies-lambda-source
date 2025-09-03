@@ -99,15 +99,11 @@ resource "aws_dynamodb_table" "movies" {
 
 resource "null_resource" "seed_dynamodb" {
   provisioner "local-exec" {
-    interpreter = ["/bin/bash", "-c"]
-    command     = <<EOT
-  for item in $(jq -c '.[]' data.json); do
-    echo $item | aws dynamodb put-item \
-      --table-name ${aws_dynamodb_table.movies.name} \
-      --item file:///dev/stdin \
-      --region us-east-1
-  done
-  EOT
+    command = <<EOT
+      aws dynamodb batch-write-item \
+        --request-items file://batch.json \
+        --region us-east-1
+    EOT
   }
 
   depends_on = [aws_dynamodb_table.movies]
