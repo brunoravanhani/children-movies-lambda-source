@@ -867,12 +867,13 @@
             "id": 54,
             "name": "Kung Fu Panda",
             "image": "https://image.tmdb.org/t/p/w1280/6figomnwyiUa2ErqK8QangIAO6c.jpg",
-            "description": "",
+            "description": "Po é um panda que trabalha na loja de macarrão da sua família e sonha em transformar-se em um mestre de kung fu. Seu sonho se torna realidade quando, inesperadamente, ele deve cumprir uma profecia antiga e estudar a arte marcial com seus ídolos, os Cinco Furiosos. Po precisa de toda a sabedoria, força e habilidade que conseguir reunir para proteger seu povo de um leopardo da neve malvado.",
+            "year": "2008",
             "type": "animated-movie",
             "streams": [
                 {
-                    "name": "Netflix",
-                    "link": "https://www.netflix.com/br/title/70075480"
+                    "name": "Prime Video",
+                    "link": "https://www.primevideo.com/detail?gti=amzn1.dv.gti.a6b51097-7c95-8f1d-0e93-ac324b079761&irclickid=b30c0d59N880911f0aaee1540551bb06"
                 }
             ],
             "tags": [
@@ -883,12 +884,13 @@
             "id": 55,
             "name": "Kung Fu Panda 3",
             "image": "https://image.tmdb.org/t/p/w1280/pXYJjUNtnLfXVKGmqi1nfGornri.jpg",
-            "description": "",
+            "description": "Em uma visita a uma vila secreta com o pai, Po forma um exército de pandas para combater um espírito maligno que ameaça a China.",
+            "year": "2016",
             "type": "animated-movie",
             "streams": [
                 {
-                    "name": "Netflix",
-                    "link": "https://www.netflix.com/br/title/80071348"
+                    "name": "Prime Video",
+                    "link": "https://www.primevideo.com/detail?gti=amzn1.dv.gti.deb0a816-b022-8b17-40cf-b862b7952e47"
                 }
             ],
             "tags": [
@@ -1245,6 +1247,57 @@
                 {
                     "name": "Disney",
                     "link": "https://www.disneyplus.com/pt-br/browse/entity-6888a58f-380b-48eb-b1bf-048391761d6c?irclickid=yYHzCn0N0xycWU0TwVVJhXX9UkpzYmwzRwHJXA0&irgwc=1&cid=DSS-Affiliate-Impact-Content-JustWatch+GmbH-705874&tgclid=0b010048-c7fe-4da0-b500-0b8b68b70540&"
+                }
+            ],
+            "tags": [
+                "menino"
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Bolt: O Supercão",
+            "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/puAIiFICbqLehrE8X884ZbNxI8N.jpg",
+            "description": "Bolt é o astro do maior e mais divertido show de Hollywood. O único problema é que ele acha que é tudo de verdade. Um dia, acidentalmente, o Supercão embarca para a cidade de Nova York e se separa da sua amada dona e coestrela Penny. Agora, na vida real, Bolt entra em ação para encontrar o caminho de volta para casa. Junto ao seu hilário amigo auxiliar Rhino, seu fã número 1, e uma gata esperta chamada Mittens, começam uma incrível jornada em que ele descobre que não precisa de superpoderes par ser um herói.",
+            "year": 2008,
+            "type": "animated-movie",
+            "streams": [
+                {
+                    "name": "Disney",
+                    "link": "https://www.disneyplus.com/pt-br/browse/entity-571d9761-423b-4e7c-820e-a35c1faf1cf3"
+                }
+            ],
+            "tags": [
+                "menino"
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Kung Fu Panda 2",
+            "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mgypa5hjjr2QXiaa5MwPlQuh3oe.jpg",
+            "description": "Po vive o sonho de ser o dragão guerreiro, protegendo o Vale da Paz ao lado dos mestres Shifu, Tigresa, Macaco, Víbora, Louva-deus e Garça. Sua vida pacata chega ao fim quando surge um novo inimigo, o lorde Chen, que possui uma arma secreta capaz de permitir a conquista da China e provocar o fim do kung fu. Para impedi-lo, Po e os Cinco Furiosos precisam cruzar o país e derrotá-lo.",
+            "year": "2011",
+            "type": "animated-movie",
+            "streams": [
+                {
+                    "name": "Prime Video",
+                    "link": "https://www.primevideo.com/detail?gti=amzn1.dv.gti.e4ba6579-5d5f-935a-6972-e02d1792022a"
+                }
+            ],
+            "tags": [
+                "menino"
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Kung Fu Panda 4",
+            "image": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vU5MZaZfdl6P7SRHGjpWYiNYa1t.jpg",
+            "description": "Po está prestes a se tornar o novo líder espiritual do Vale da Paz, mas antes que possa fazer isso, ele deve encontrar um sucessor para se tornar o novo Dragão Guerreiro. Ele parece encontrar uma em Zhen, uma raposa com muitas habilidades promissoras, mas que não gosta muito da ideia de Po treiná-la.",
+            "year": "2024",
+            "type": "animated-movie",
+            "streams": [
+                {
+                    "name": "Prime Video",
+                    "link": "https://www.primevideo.com/detail?gti=amzn1.dv.gti.3e057750-acf9-422d-8278-2919e7025d01"
                 }
             ],
             "tags": [
