@@ -1303,6 +1303,58 @@
             "tags": [
                 "menino"
             ]
+        },
+        {
+            "id": 80,
+            "name": "Viagem ao Centro da Terra",
+            "image": "https://media.themoviedb.org/t/p/w300_and_h450_face/35AI4Bmo1JrEzgMOxOARRUT9Pn6.jpg",
+            "description": "Durante uma expedição na Islândia, o professor Trevor Anderson, o seu sobrinho Sean, e sua guia Hannah ficam presos em uma caverna. Enquanto seguem sua rota de fuga mais abaixo da superfície da Terra, eles passam por lugares estranhos e encontram criaturas incríveis, incluindo dinossauros. Porém, como a atividade vulcânica à sua volta aumenta, eles percebem que precisam encontrar o caminho para fora rapidamente.",
+            "year": 2008,
+            "type": "live-action",
+            "streams": [
+                {
+                    "name": "Netflix",
+                    "link": "https://www.netflix.com/br/title/70097578"
+                }
+            ],
+            "tags": [
+                "menino"
+            ]
+        },
+        {
+            "id": 81,
+            "name": "O Gigante de Ferro",
+            "image": "https://media.themoviedb.org/t/p/w300_and_h450_face/z3SdBaZJq1L5rkfzJoDAGal3Vjx.jpg",
+            "description": "Em 1957, um robô alienígena gigante aterrissa perto da pequena cidade de Rockwell, Maine (EUA). Hogarth, um garoto de nove anos que estava explorando a área, encontra o robô e os dois ficam amigos. Mas um agente do governo completamente obcecado surge com o objetivo de destruir o extraterrestre a qualquer custo.",
+            "year": 1999,
+            "type": "animated-movie",
+            "streams": [
+                {
+                    "name": "Max",
+                    "link": "https://play.hbomax.com/show/61afe246-659b-404b-ab30-facab965b34d"
+                }
+            ],
+            "tags": [
+                "menino"
+            ]
+        },
+        {
+            "id": 82,
+            "name": "A Viagem de Chihiro",
+            "image": "https://media.themoviedb.org/t/p/w300_and_h450_face/hhoKhsyJ3hFaxEm5pMdZRiTu2lJ.jpg",
+            "description": "Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salvá-los",
+            "year": 2001,
+            "type": "animated-movie",
+            "streams": [
+                {
+                    "name": "Netflix",
+                    "link": "https://www.netflix.com/br/title/60023642"
+                }
+            ],
+            "tags": [
+                "menino",
+                "menina"
+            ]
         }
     ]
 }
