@@ -1,30 +1,26 @@
-import fs from 'fs/promises';
-import path from 'path';
+import { DynamoDBClient } from "@aws-sdk/client-dynamodb";
+import { ScanCommand, DynamoDBDocumentClient } from "@aws-sdk/lib-dynamodb";
+
+const client = new DynamoDBClient({ region: "us-east-1" });
+const ddbDocClient = DynamoDBDocumentClient.from(client);
 
 export const handler = async (event) => {
   try {
-      const filePath = path.resolve('./data.json');
-      
-      const fileContent = await fs.readFile(filePath, 'utf-8');
-      const data = JSON.parse(fileContent);
+    const result = await ddbDocClient.send(
+      new ScanCommand({
+        TableName: "children-movies-database"
+      })
+    );
 
-      return {
-          statusCode: 200,
-          headers: {
-                'Content-Type': 'application/json',
-                "Access-Control-Allow-Headers" : "Content-Type",
-                "Access-Control-Allow-Origin": "*",
-                "Access-Control-Allow-Methods": "GET"
-          },
-          body: JSON.stringify(data)
-      };
-  } catch (error) {
-      return {
-          statusCode: 500,
-          headers: {
-              'Content-Type': 'application/json'
-          },
-          body: JSON.stringify({ error: error.message })
-      };
+    return {
+      statusCode: 200,
+      body: JSON.stringify(result.Items)
+    };
+  } catch (err) {
+    console.error("Erro no scan:", err);
+    return {
+      statusCode: 500,
+      body: JSON.stringify({ message: "Erro ao buscar filmes" })
+    };
   }
 };

@@ -55,10 +55,19 @@ resource "aws_iam_role_policy_attachment" "attach_iam_policy_to_iam_role" {
 
 # Generates an archive from content, a file, or a directory of files.
 
+resource "null_resource" "npm_install" {
+  provisioner "local-exec" {
+    command = "cd src && npm install"
+  }
+}
+
+
 data "archive_file" "zip_the_code" {
   type        = "zip"
   source_dir  = "../src"
   output_path = "../lambda.zip"
+
+  depends_on = [null_resource.npm_install]
 }
 
 # Create a lambda function
@@ -97,17 +106,17 @@ resource "aws_dynamodb_table" "movies" {
   }
 }
 
-resource "null_resource" "seed_dynamodb" {
-  provisioner "local-exec" {
-    command = <<EOT
-      aws dynamodb batch-write-item \
-        --request-items file://batch.json \
-        --region us-east-1
-    EOT
-  }
+# resource "null_resource" "seed_dynamodb" {
+#   provisioner "local-exec" {
+#     command = <<EOT
+#       aws dynamodb batch-write-item \
+#         --request-items file://batch.json \
+#         --region us-east-1
+#     EOT
+#   }
 
-  depends_on = [aws_dynamodb_table.movies]
-}
+#   depends_on = [aws_dynamodb_table.movies]
+# }
 
 output "teraform_aws_role_output" {
   value = aws_iam_role.lambda_role.name
